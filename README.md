@@ -83,4 +83,29 @@ Non-functional Requirements define the system’s operational qualities — how 
 
 These requirements focus on *performance, reliability, usability,* and *security*.
 
+## Acceptance Criteria
+
+**Acceptance Criteria** are specific conditions or requirements that a software product must satisfy to be accepted by stakeholders or the product owner. They define the boundaries of a user story or feature and clarify what is expected for it to be considered complete and functional.
+
+### Importance of Acceptance Criteria:
+- **Clarity**: Ensures the development team understands what needs to be delivered.
+- **Alignment**: Helps stakeholders, developers, and testers stay on the same page.
+- **Testability**: Provides a clear basis for writing test cases and verifying functionality.
+- **Scope Control**: Prevents scope creep by clearly defining what is in or out of the feature.
+
+### Example: Checkout Feature in Booking Management System
+
+**Feature**: Checkout and Payment
+
+**Acceptance Criteria:**
+- User must be able to review booking details before finalizing payment.
+- System must support multiple payment options (e.g., credit card, PayPal).
+- Payment must be securely processed using SSL encryption.
+- Confirmation message and receipt must be displayed upon successful payment.
+- If payment fails, an error message must be shown and the user should be allowed to retry.
+
+These criteria help ensure that the checkout feature functions as expected and meets both business and user needs.
+
+
+
 
