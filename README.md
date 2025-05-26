@@ -93,7 +93,8 @@ A **Use Case Diagram** is a type of Unified Modeling Language (UML) diagram that
 
 Below is a use case diagram for the ALX Booking Management System. It shows the primary actors and their interactions with the system.
 
-![Use Case Diagram](alx-booking-uc.png)
+![Use Case Diagram](alx-![image](https://github.com/user-attachments/assets/77b38c7f-3caf-45fc-a21f-ed1189af5684)
+booking-uc.png)
 
 
 
