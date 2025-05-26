@@ -35,3 +35,23 @@ By identifying and resolving ambiguities early in the SDLC, requirement analysis
 When requirements are accurate and complete, developers can build a system that meets real user needs. This results in a more reliable, user-friendly, and effective product that performs as expected under real-world conditions.
 
 Understanding the "why" behind each requirement also enables better testing, validation, and alignment with business objectives.
+
+## Key Activities in Requirement Analysis
+
+Requirement Analysis involves several essential activities that ensure the project is built on a clear and agreed-upon foundation. Below are the five key activities typically performed:
+
+- **Requirement Gathering**  
+  This involves collecting information from stakeholders, users, and other sources to understand what the system should achieve. It sets the stage for all other activities.
+
+- **Requirement Elicitation**  
+  Techniques such as interviews, surveys, brainstorming, and observation are used to extract detailed requirements from stakeholders. This helps uncover both explicit and hidden needs.
+
+- **Requirement Documentation**  
+  Once collected, the requirements are documented clearly and systematically. This documentation serves as a reference for both development and validation and may include use cases, user stories, or functional specifications.
+
+- **Requirement Analysis and Modeling**  
+  Requirements are analyzed to resolve conflicts, check feasibility, and prioritize them. Modeling techniques such as data flow diagrams or use case diagrams may be used to visualize system behavior and interactions.
+
+- **Requirement Validation**  
+  The documented requirements are reviewed and validated with stakeholders to ensure they accurately reflect the intended needs. This step ensures the requirements are complete, consistent, and aligned with business goals.
+
